@@ -4,7 +4,7 @@ Welcome to the Agora Paper Club, a collaborative learning community dedicated to
 [Join the agora discord here:](https://discord.gg/m4hqS27cD8)
 
 ## Mission
--------
+---
 
 Our mission is to foster a deep understanding of multi-modality models and their applications. We believe that the future of AI lies in the intersection of various modalities and that understanding these intersections will lead to breakthroughs in AI applications. We aim to create a collaborative environment where learners can explore these topics in depth, share their insights, and contribute to the collective knowledge of the community.
 
@@ -18,7 +18,7 @@ Our discussions revolve around a wide range of topics in mathematics and AI, inc
 -   Swarm Collective Intelligence: Studying how collective behavior of decentralized, self-organized systems can be applied to AI.
 
 ## Organization
-------------
+---
 
 We understand that there are many different interesting topics in the field of AI and mathematics, and sticking to a single one for an extended period can be challenging. Therefore, we plan to have sessions on long-running topics like Geometric Deep Learning interspersed with shorter ones.
 
@@ -31,7 +31,7 @@ While we'll generally try to stay close to AI and mathematics, some topics requi
 - [Agora discord forum channel, join here](https://discord.gg/m4hqS27cD8)
 
 ## Contributing
-------------
+---
 
 We welcome contributions from all members of the community. If there are particular topics you'd like us to cover, feel free to let us know or create an issue on this repo, and we'll add them to the list. If you are knowledgeable in some topic, and/or are motivated to present one or more sessions on it, we'd love to have you. Just open an issue on this repo on the topic, or reply to the existing issue for that topic.
 
@@ -42,10 +42,10 @@ We welcome contributions from all members of the community. If there are particu
 In order to prepare sessions on a topic, it's important to have some source material available online that attendees can read. A topic will be considered ready to be covered once it has reading material, people willing to present, and an idea of how many sessions it should take, at which point it will be scheduled.
 
 ## Suggested Topics
-----------------
+---
 
 ### Multi-modal Topics
-------------------
+---
 
 1.  Multi-modal Data Fusion: This topic explores the methods and techniques used to combine data from different modalities to improve the performance of AI models.
 
@@ -58,7 +58,7 @@ In order to prepare sessions on a topic, it's important to have some source mate
 5.  Multi-modal Applications: This topic looks at the various applications of multi-modal learning, from healthcare to autonomous vehicles.
 
 ### LLM (Language Model) Topics
----------------------------
+-----
 
 1.  LLM Architectures: This topic covers the different architectures used in language models, such as transformer-based models, recurrent neural networks, and others.
 
@@ -71,7 +71,7 @@ In order to prepare sessions on a topic, it's important to have some source mate
 5.  LLM Ethics and Fairness: This topic explores the ethical considerations and fairness issues related to the use of language models.
 
 ### Swarm Collective Intelligence Topics
-------------------------------------
+-----
 
 1.  Swarm Behavior in Nature: This topic explores how swarm behavior manifests in nature, such as in colonies of ants or flocks of birds, and how these behaviors can be modeled in AI.
 
