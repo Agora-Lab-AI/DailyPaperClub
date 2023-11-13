@@ -85,3 +85,8 @@ In order to prepare sessions on a topic, it's important to have some source mate
 
 These topics provide a comprehensive overview of the fields of multi-modal learning, language models, and swarm collective intelligence. Each topic is a rich area of study with many subtopics and related areas to explore. By delving into these topics, we can gain a deeper understanding of these fields and contribute to the advancement of AI.
 Join us in our mission to understand multi-modality models and their applications. Let's learn together and contribute to the future of AI!
+
+
+# Resources
+- DPC will be recorded and post on [YouTube here:](https://www.youtube.com/@kyegomez3242/videos)
+- [Agora Discord](https://discord.gg/t5QxhyvUG9)
