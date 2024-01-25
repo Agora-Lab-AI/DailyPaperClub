@@ -1,7 +1,11 @@
 # DailyPaperClub
 Welcome to the Agora Paper Club, a collaborative learning community dedicated to understanding multi-modality models and their applications. Our mission is to delve into the depths of mathematics and artificial intelligence, exploring topics such as multi-modality reasoning, generation, and swarm collective intelligence.
 
-[Join the agora discord here:](https://discord.gg/m4hqS27cD8)
+### Time
+- Every night at 10AM eastern NYC time
+
+### Place
+- [Agora discord forum channel, join here](https://discord.gg/m4hqS27cD8)
 
 ## Mission
 ---
@@ -25,7 +29,7 @@ We understand that there are many different interesting topics in the field of A
 While we'll generally try to stay close to AI and mathematics, some topics require a basic introduction, so we'll have some of those as well.
 
 ### Time
-- Every night at 10pm eastern NYC time
+- Every night at 10AM eastern NYC time
 
 ### Place
 - [Agora discord forum channel, join here](https://discord.gg/m4hqS27cD8)
